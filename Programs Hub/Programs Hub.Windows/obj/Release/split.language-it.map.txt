@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-it"
+"ResourceDimensions"		"language-it-it"
+
+[Files]
+"C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.Windows\obj\Release\split.language-it.pri"			"resources.pri"

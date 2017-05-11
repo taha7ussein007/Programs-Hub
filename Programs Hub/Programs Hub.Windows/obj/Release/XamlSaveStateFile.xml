@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\taha hussein\desktop\programs hub\programs hub\programs hub.windows\obj\release\intermediatexaml\programs hub.windows.exe" HashGuid="c1f7beee-1376-d352-d1ff-e640f89fcc58" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\adduplex.win.extension\9.0.0.3\references\commonconfiguration\neutral\adduplex.universal.controls.win.xaml.dll" HashGuid="ad6a1d03-eb32-18d8-2fd3-0ddb1210af0f" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\adduplex.win.extension\9.0.0.3\references\commonconfiguration\neutral\adduplex.universal.win.winrt.winmd" HashGuid="914d9b55-31e5-c71b-1ddd-485ed59353bc" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\users\taha hussein\desktop\programs hub\packages\mytoolkit.2.3.31.0\lib\portable-net45+wp8+win8+wpa81\mytoolkit.dll" HashGuid="f954329d-f40a-4c5f-1734-127e969f3d24" />
+    <ReferenceAssembly PathName="c:\users\taha hussein\desktop\programs hub\packages\mytoolkit.extended.2.3.31.0\lib\portable-wpa81+win8\mytoolkit.extended.dll" HashGuid="146a9e74-41ed-555a-91a5-4a0ce1c19c4b" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

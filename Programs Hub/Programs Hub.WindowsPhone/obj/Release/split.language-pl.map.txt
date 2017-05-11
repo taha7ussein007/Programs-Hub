@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-pl"
+"ResourceDimensions"		"language-pl-pl"
+
+[Files]
+"C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Release\split.language-pl.pri"			"resources.pri"

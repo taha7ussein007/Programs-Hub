@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TAHA</Machine>
+    <WindowsUser>Taha Hussein</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4203TahaHussein.ProgramsHub</PackageIdentityName>
+    <IntermediateOutputPath>D:\Programs Hub\Programs Hub\Programs Hub.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7396A6CCA24436C9CD13D727FEA9DE803857BDEBD9AAEB2A2610B4961FC9FBA8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4203TahaHussein.ProgramsHub_1.1.0.0_neutral__jg8vh6z4j58tt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4203TahaHussein.ProgramsHub_jg8vh6z4j58tt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4203TahaHussein.ProgramsHub</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=51C861B3-69B8-4346-A7ED-F2FAF9D63E04</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-12T11:44:45.682</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\bin\Debug\Programs Hub.Windows.exe">
+      <PackagePath>Programs Hub.Windows.exe</PackagePath>
+      <Modified>2015-07-28T11:11:28.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\References\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML.dll">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML.dll</PackagePath>
+      <Modified>2015-04-01T08:40:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-04-29T12:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-04-29T12:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\packages\MyToolkit.2.3.31.0\lib\portable-net45+wp8+win8+wpa81\MyToolkit.dll">
+      <PackagePath>MyToolkit.dll</PackagePath>
+      <Modified>2015-07-08T10:48:42.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended.dll">
+      <PackagePath>MyToolkit.Extended.dll</PackagePath>
+      <Modified>2015-07-08T10:48:58.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\References\CommonConfiguration\neutral\AdDuplex.Universal.Win.WinRT.winmd">
+      <PackagePath>AdDuplex.Universal.Win.WinRT.winmd</PackagePath>
+      <Modified>2015-04-01T08:40:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.3\Redist\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf</PackagePath>
+      <Modified>2015-04-01T08:40:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:42:22.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T03:23:07.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T03:25:21.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:41:20.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:21:26.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:22:53.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:30:42.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:20:31.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\SmallLogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:19:30.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T03:24:59.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:22:15.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\SmallLogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:27:08.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T03:30:41.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T03:32:29.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T03:33:08.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T03:26:35.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T03:27:26.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T03:30:21.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T03:24:36.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:43:48.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Square70x70Logo.scale-140.png">
+      <PackagePath>Assets\Square70x70Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:45:51.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:41:50.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Square70x70Logo.scale-80.png">
+      <PackagePath>Assets\Square70x70Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:31:19.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:27:53.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:43:48.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T02:45:25.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T03:26:07.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T03:28:02.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T03:29:44.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-30T03:23:50.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\1.png">
+      <PackagePath>Assets\1.png</PackagePath>
+      <Modified>2015-07-06T14:59:49.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\to.png">
+      <PackagePath>Assets\to.png</PackagePath>
+      <Modified>2015-07-08T14:20:58.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\About background.png">
+      <PackagePath>Assets\About background.png</PackagePath>
+      <Modified>2015-03-29T23:51:44.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly 5-1.png</PackagePath>
+      <Modified>2015-03-29T23:50:20.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\Assembly logo\About background.png">
+      <PackagePath>Assets\Assembly logo\About background.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\Assembly logo\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly logo\Assembly 5-1.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\Assembly logo\Blue.png">
+      <PackagePath>Assets\Assembly logo\Blue.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\Assembly logo\FBL.png">
+      <PackagePath>Assets\Assembly logo\FBL.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\Assembly logo\Logo Icon 1.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon 1.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\Assembly logo\Logo Icon.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\Assembly logo\Logo Icon2.png">
+      <PackagePath>Assets\Assembly logo\Logo Icon2.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\Assembly logo\TL.png">
+      <PackagePath>Assets\Assembly logo\TL.png</PackagePath>
+      <Modified>2014-10-27T11:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\FBL.png">
+      <PackagePath>Assets\FBL.png</PackagePath>
+      <Modified>2015-03-29T23:50:20.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\hubPic %282%29.png">
+      <PackagePath>Assets\hubPic %282%29.png</PackagePath>
+      <Modified>2015-06-30T04:22:18.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\Logo Icon 1.png">
+      <PackagePath>Assets\Logo Icon 1.png</PackagePath>
+      <Modified>2015-03-29T23:50:20.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\Logo Icon2.png">
+      <PackagePath>Assets\Logo Icon2.png</PackagePath>
+      <Modified>2015-03-29T23:50:20.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\hubPic.png">
+      <PackagePath>Assets\hubPic.png</PackagePath>
+      <Modified>2015-06-30T04:05:29.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\1.png">
+      <PackagePath>Assets\progPic\1.png</PackagePath>
+      <Modified>2015-06-30T16:51:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\4.png">
+      <PackagePath>Assets\progPic\4.png</PackagePath>
+      <Modified>2015-06-30T16:57:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\5.png">
+      <PackagePath>Assets\progPic\5.png</PackagePath>
+      <Modified>2015-06-30T18:12:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\TL.png">
+      <PackagePath>Assets\TL.png</PackagePath>
+      <Modified>2015-03-29T23:50:20.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\17.jpg">
+      <PackagePath>Assets\progPic\17.jpg</PackagePath>
+      <Modified>2015-06-30T16:59:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\wood.jpg">
+      <PackagePath>Assets\wood.jpg</PackagePath>
+      <Modified>2015-03-19T03:04:58.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\4.jpg">
+      <PackagePath>Assets\4.jpg</PackagePath>
+      <Modified>2015-06-25T23:49:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+      <Modified>2015-06-25T23:59:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\1-.jpg">
+      <PackagePath>Assets\1-.jpg</PackagePath>
+      <Modified>2015-06-26T02:19:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\10.jpg">
+      <PackagePath>Assets\progPic\10.jpg</PackagePath>
+      <Modified>2015-06-30T16:52:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\12.jpg">
+      <PackagePath>Assets\progPic\12.jpg</PackagePath>
+      <Modified>2015-06-30T17:06:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\13.jpg">
+      <PackagePath>Assets\progPic\13.jpg</PackagePath>
+      <Modified>2015-06-30T17:08:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\14.jpg">
+      <PackagePath>Assets\progPic\14.jpg</PackagePath>
+      <Modified>2015-06-30T16:58:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\15.jpg">
+      <PackagePath>Assets\progPic\15.jpg</PackagePath>
+      <Modified>2015-06-30T16:55:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\16.jpg">
+      <PackagePath>Assets\progPic\16.jpg</PackagePath>
+      <Modified>2015-07-01T15:43:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\2.jpg">
+      <PackagePath>Assets\progPic\2.jpg</PackagePath>
+      <Modified>2015-06-22T04:30:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\3.jpg">
+      <PackagePath>Assets\progPic\3.jpg</PackagePath>
+      <Modified>2015-06-30T16:56:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\6.jpg">
+      <PackagePath>Assets\progPic\6.jpg</PackagePath>
+      <Modified>2015-06-30T16:57:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\7.jpg">
+      <PackagePath>Assets\progPic\7.jpg</PackagePath>
+      <Modified>2015-06-30T17:09:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\8.jpg">
+      <PackagePath>Assets\progPic\8.jpg</PackagePath>
+      <Modified>2015-06-22T04:31:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\9.jpg">
+      <PackagePath>Assets\progPic\9.jpg</PackagePath>
+      <Modified>2015-06-22T04:00:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Shared\Assets\progPic\11.jpeg">
+      <PackagePath>Assets\progPic\11.jpeg</PackagePath>
+      <Modified>2015-06-30T16:54:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-29T16:05:39.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+      <Modified>2015-06-29T16:05:39.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-07-27T06:20:49.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\bin\Debug\second.xbf">
+      <PackagePath>second.xbf</PackagePath>
+      <Modified>2015-07-12T11:08:44.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\bin\Debug\Programs Hub.Windows.xr.xml">
+      <PackagePath>Programs Hub.Windows.xr.xml</PackagePath>
+      <Modified>2015-07-26T21:36:52.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\MyToolkit.Extended.xr.xml">
+      <PackagePath>MyToolkit.Extended\MyToolkit.Extended.xr.xml</PackagePath>
+      <Modified>2015-07-08T10:48:58.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\Controls\DatePicker.xbf">
+      <PackagePath>MyToolkit.Extended\Controls\DatePicker.xbf</PackagePath>
+      <Modified>2015-07-08T10:48:58.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\Controls\TimePicker.xbf">
+      <PackagePath>MyToolkit.Extended\Controls\TimePicker.xbf</PackagePath>
+      <Modified>2015-07-08T10:48:58.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\Themes\generic.xbf">
+      <PackagePath>MyToolkit.Extended\Themes\generic.xbf</PackagePath>
+      <Modified>2015-07-08T10:48:58.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\UI\Popups\ListPickerBox.xbf">
+      <PackagePath>MyToolkit.Extended\UI\Popups\ListPickerBox.xbf</PackagePath>
+      <Modified>2015-07-08T10:48:58.347</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs Hub\Programs Hub\Programs Hub.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-26T21:27:51.290</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

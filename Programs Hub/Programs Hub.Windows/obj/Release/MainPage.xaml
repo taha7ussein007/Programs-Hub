@@ -1,0 +1,143 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="Programs_Hub.MainPage"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Programs_Hub"
+    xmlns:common="using:Programs_Hub.Common"
+    xmlns:ad="using:AdDuplex.Universal.Controls.Win.XAML"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <x:String x:Key="ChevronGlyph">&#xE26B;</x:String>
+
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">Programs Hub</x:String>
+
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page.
+    -->
+    <Grid Background="Cornsilk">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+
+        <Grid>
+            <Grid.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/1.png"/>
+            </Grid.Background>
+            <Hub>
+                <Hub.Header>
+                    <!-- Back button and page title -->
+                    <Grid Width="558">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="80"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <!--<Grid.Background>
+                     <ImageBrush Stretch="Fill" ImageSource="Assets/back1.png"/>
+                        </Grid.Background>-->
+                        <TextBlock x:Name="pageTitle" Text="Programs Hub" FontFamily="Snap ITC" Grid.Column="1" 
+                        IsHitTestVisible="false"  Foreground="#d5b47f" TextWrapping="NoWrap" VerticalAlignment="Top"/>
+                    </Grid>
+                </Hub.Header>
+
+
+                <HubSection Width="700" >
+                    <HubSection.Background>
+                        <ImageBrush Stretch="UniformToFill" ImageSource="Assets/hubPic.png" />
+                    </HubSection.Background>
+                </HubSection>
+                <HubSection Width="500"   Header="Most Famous">
+                    <DataTemplate>
+                        <!--<Image Stretch="Fill"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Height="40"/>-->
+
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <Image x:ConnectionId='6' Stretch="Fill" Source="Assets/progPic/9.jpg" Width="420" Height="280"                      />
+                            <TextBlock Style="{StaticResource SubheaderTextBlockStyle}" Grid.Row="1" Margin="0,10,0,0" TextWrapping="Wrap" 
+                                   Text="Photo Shop CC 2014 ."/>
+                            <TextBlock Style="{StaticResource TitleTextBlockStyle}" Grid.Row="2" Margin="0,10,0,0"
+                                   Text="Description :"/>
+                            <TextBlock Style="{StaticResource BodyTextBlockStyle}" Grid.Row="3" 
+                                   Text="Programe that you can use it to edit photos and pictures and  to create amazing projects , logos and designs . The world's best imaging and design app now features even more creative possibilities with new tools for design and photography, connecting your desktop and mobile apps with all your creative assets, so you can make amazing visual content on any device. "/>
+                            
+                        </Grid>
+                    </DataTemplate>
+                </HubSection>
+
+                <HubSection  x:Name="section_3"  IsHeaderInteractive="True" 
+                        x:Uid="Section3Header" Header="All Programs" Padding="40,40,40,32">
+                    <!--d:DataContext="{Binding Groups[3], Source={d:DesignData Source=../Programs Hup.Shared/DataModel/SampleData.json, Type=data:SampleDataSource}}-->
+                    <DataTemplate>
+
+                        <StackPanel>
+                            <GridView x:ConnectionId='5' x:Name="progg"  Height="450" HorizontalAlignment="Right"   IsItemClickEnabled="True"                                                   >
+                                <GridView.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackPanel>
+                                            <Image Source="{Binding PImage}"  Height="120" Width="130"/>
+                                            <TextBlock FontSize="13" FontWeight="Bold" Text="{Binding PName}"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </GridView.ItemTemplate>
+                            </GridView>
+
+                        </StackPanel>
+
+                    </DataTemplate>
+                </HubSection>
+
+                
+                <HubSection x:Uid="Section4Header" Header="Most Downloaded">
+                    <DataTemplate>
+                        <!-- width of 400 -->
+                        <StackPanel Orientation="Vertical">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="130"/>
+                                    <ColumnDefinition Width="5"/>
+                                    <ColumnDefinition Width="130"/>
+                                    <ColumnDefinition Width="5"/>
+                                    <ColumnDefinition Width="130"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="270"/>
+                                    <RowDefinition Height="95"/>
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="*" />
+                                </Grid.RowDefinitions>
+                                <Image x:ConnectionId='1' Source="Assets/progPic/1.png" Grid.ColumnSpan="5" Margin="0,0,0,10" Stretch="Fill"                         />
+                                <Image x:ConnectionId='2' Source="Assets/progPic/11.jpeg" Grid.Row="1" Stretch="Fill"                        />
+                                <Image x:ConnectionId='3' Source="Assets/progPic/5.png" Grid.Row="1" Grid.Column="2" Stretch="Fill"                        />
+                                <Image x:ConnectionId='4' Source="Assets/progPic/8.jpg" Grid.Row="1" Grid.Column="4" Stretch="Fill"                        />
+                                
+                                <TextBlock Margin="25" Style="{StaticResource BodyTextBlockStyle}" Grid.Row="3" Grid.ColumnSpan="5"
+                                       x:Uid="LongText" Text="Most Useful you will need as a programmer , web developer or Software Engineers :  "/>
+                                
+                                
+                            </Grid>
+                        </StackPanel>
+                    </DataTemplate>
+                </HubSection>
+            </Hub>
+            <Grid VerticalAlignment="Bottom" Margin="0,25,0,25" HorizontalAlignment="Left" Grid.Row="2">
+                <ad:AdControl x:Name="adDuplexAd" AppId="131803" Size="728x90" Margin="0,0,141,0"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>
+

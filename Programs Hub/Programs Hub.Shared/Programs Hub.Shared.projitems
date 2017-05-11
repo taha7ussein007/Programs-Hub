@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>d0d77944-101f-4743-b27e-b500d3c1dcd7</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Programs_Hub</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Model\prog1.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)VeiwModel\DataSource.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\17.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\to.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\wood.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\About background.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly 5-1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\About background.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Assembly 5-1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Blue.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\FBL.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Logo Icon 1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Logo Icon.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\Logo Icon2.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Assembly logo\TL.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\4.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\FBL.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\3.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\hubPic (2).png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Logo Icon 1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Logo Icon2.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1-.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\hubPic.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\10.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\11.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\12.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\13.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\14.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\15.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\16.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\2.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\3.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\4.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\5.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\6.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\7.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\8.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\progPic\9.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\TL.png" />
+  </ItemGroup>
+</Project>

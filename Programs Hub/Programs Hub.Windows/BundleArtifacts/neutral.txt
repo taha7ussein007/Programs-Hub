@@ -1,0 +1,4 @@
+MainPackage=C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.Windows\bin\Release\Programs Hub.Windows_1.1.0.0_Bundle\Programs Hub.Windows_1.1.0.0_AnyCPU.appx
+SymbolPackage=C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.Windows\AppPackages\Programs Hub.Windows_1.1.0.0_Test\Programs Hub.Windows_1.1.0.0_AnyCPU.appxsym
+ResourcePack=C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.Windows\bin\Release\Programs Hub.Windows_1.1.0.0_Bundle\Programs Hub.Windows_1.1.0.0_scale-140.appx
+ResourcePack=C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.Windows\bin\Release\Programs Hub.Windows_1.1.0.0_Bundle\Programs Hub.Windows_1.1.0.0_scale-180.appx

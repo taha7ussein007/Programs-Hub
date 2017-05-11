@@ -1,0 +1,183 @@
+﻿1-eclipse 
+http://bit.ly/18ub3Xx
+-------
+64 bit:http://bit.ly/1BDSn8o
+32 bit: http://bit.ly/1diyaJJ
+--------
+desc : The essential tools for 
+any Java developer, including a Java IDE, a CVS client, Git client, XML Editor, Mylyn, Maven integration and WindowBuilder .
+...........................................
+Precondition is 
+installing java jdk :http://bit.ly/1lO1FSV
+..............................................
+-------
+mini desc : Programe to get started in php , java programing like netbeans . 
+#######################################
+2-wampp
+http://bit.ly/1eQ3iQ3
+----------
+64 bit : http://bit.ly/RRukN1
+32 bit : http://bit.ly/1wKaP9K
+MUST HAVE : http://bit.ly/1gTnC0S
+--------
+desc : Stands for "Windows, Apache, MySQL, and PHP." WAMP is a variation of LAMP for Windows systems and is often installed as a software bundle
+ (Apache, MySQL, and PHP). It is often used for web development and internal testing, but may also be used to serve live websites. & no preconditions
+-------
+mini desc : Tool which help you to test dynamic websites , includes MySQL , PHP and Apache (or "Apache HTTP Server") which is used run the web server within Windows.
+########################################
+3- camtasia studio 8.5.1
+http://bit.ly/1TP6xtd
+---------------
+http://bit.ly/1QROG60
+--------
+desc : Programe that you can use to  Record high-quality videos in no time with Camtasia's advanced screen recorder , 
+Create more professional videos without having to be a video pro , Easily share your videos and interact with your audience. \n no Preconditions
+-------
+mini desc : Programe that you can use it to record the screen , edit vedios and share it easily .
+########################################
+4- geny motion
+http://bit.ly/1HjwYln
+----------
+http://bit.ly/1Gley1U
+--------
+desc :  Genymotion is an Android emulator for building and testing great Android apps. It’s fast, simple and powerful.
+
+It offers 20 pre-configured devices and you can create your own custom ones. \n precondition is installing virtual machine .
+-------
+mini desc : Genymotion is a fast and easy-to-use Android emulator to run and test your Android apps .
+########################################
+5 - netbeans
+http://bit.ly/1daNBmX
+----------
+http://bit.ly/1fKYENO
+MUST HAVE 
+http://bit.ly/1lO1FSV
+--------
+desc :  NetBeans IDE is the official IDE for Java 8. With its editors, code analyzers, and converters, you can quickly and smoothly upgrade your applications
+ to use new Java 8 language constructs, such as lambdas, functional operations, and method references. & precondition is installing 
+ java jdk :http://bit.ly/1lO1FSV .
+-------
+mini desc : Programe to get started in php , java , c++ , HTML programing  like eclipse .
+########################################
+6 - FOXIT READER 
+http://bit.ly/1uq5zcV
+-----------
+http://bit.ly/1fFSN4i
+--------
+desc : 
+Over 325 Million Users
+Small, Fast, and Feature Rich
+Free PDF Creation / PDF Conversion
+Protects Against Security Vulnerabilities
+Easily Deployable to Large Organizations  . & no preconditions
+-------
+mini desc : PDF Reader: Print and View PDF Foxit Reader . 
+########################################
+7 - adobe flash player
+http://bit.ly/1e5KfCR
+--------
+http://adobe.ly/V7UJrG
+--------
+desc : is freeware software for using content created on the Adobe Flash platform, including viewing 
+multimedia, executing rich Internet applications, and streaming video and audio.  & no preconditions.
+-------
+mini desc : A programe to be able to watch  youtube or other streaming video on internet . 
+########################################
+8 - VLC 
+http://bit.ly/1jWHeUd
+--------
+http://bit.ly/1DrBM2Q
+--------
+desc : VLC media player (initially VideoLAN Client) is a highly portable multimedia player for various audio 
+and video formats (MPEG, DivX/Xvid, Ogg, and many more) as well as DVDs, VCDs, and various streaming protocols. & no preconditions .
+-------
+mini desc : It is video media player to get started with movies and videos that you own on your computer .
+########################################
+9 - team veiwer
+http://bit.ly/1LRJc4w
+----------
+http://bit.ly/1FM82O3
+--------
+desc :  TeamViewer is a proprietary computer software package for remote control,
+ desktop sharing, online meetings, web conferencing and file transfer between computers. & no preconditions .
+-------
+mini desc : Programe to get started with remaote access to controls any computer have team veiwer just by password .
+########################################
+10 - photo shop 2014 cc
+http://bit.ly/1GW7N72
+-------------
+http://bit.ly/1C3EnVO
+--------
+desc :  The world's best imaging and design app now features even more creative possibilities with new tools for design and photography, 
+connecting your desktop and mobile apps with all your creative assets, so you can make amazing visual content on any device. & no preconditions. 
+-------
+mini desc : Programe that you can use it to edit photos and pictures and  to create amazing projects , logos and designs .
+########################################
+11 - virtual box
+http://bit.ly/1p6Pn8w
+-------
+http://bit.ly/1BMthiq
+--------
+desc :  VirtualBox is a cross-platform virtualization application. What does that mean? For one thing, it installs on your existing Intel
+ or AMD-based computers, whether they are running Windows, Mac, Linux or Solaris operating systems. & no preconditions.
+-------
+mini desc : It is a virtual machine that you can instal any operating system beside yours and specify part from your RAM to it .
+########################################
+12 - directx 11 
+http://bit.ly/1g4u0at
+--------
+http://bit.ly/VY08lM
+--------
+desc : Microsoft DirectX is the graphics technology powering today’s most impressive games.
+ The latest version, DirectX 11, enables the addition of advanced effects and features in NVIDIA-enhanced titles,
+ ranging from tessellation and HBAO+, to Percentage Closer Soft Shadows and NVIDA HairWorks. & no preconditions.
+-------
+mini desc :  Programe to get started with computer Games and movies or videos with high Quality .
+########################################
+13 - EaseUS Data Recovery Wizard 
+http://cnet.co/1BShZOM
+----------
+http://cnet.co/1eWD5ls
+--------
+desc : 
+Geared mainly toward recovering from accidental file deletions or disk formats, EaseUS' product also includes support for data corruption brought about by unexpected crashes, loss of power…
+-By Jesus Vigo, TechRepublic . & no preconditions.
+
+-------
+mini desc : A programe that you can use it to resize your hard , data recovery , formatting and many several Uses .
+########################################
+14 - line 
+for windows : http://bit.ly/1HrlgW1
+-----
+http://bit.ly/1NrtNsZ
+**********************
+for win phone 8.1 : http://bit.ly/SoAJzl
+-------
+http://bit.ly/SoAJzl
+--------
+desc :  Line (styled "LINE") is a proprietary application for instant communications
+ on electronic devices such as smartphones, tablet computers and personal computers. & no preconditions.
+-------
+mini desc : Free Application for communications Like Skype , it also support images , photos and audio .
+########################################
+15 - winrar 
+http://bit.ly/1LETR5F
+--------
+http://bit.ly/1g4wfdR
+--------
+desc : WinRAR is a shareware file archiver and compressor utility for Windows,
+  It can create archives in RAR or ZIP file formats,[2] and unpack numerous archive file formats. & no preconditions.
+-------
+mini desc : It is a shareware file archiver and compressor utility for Windows.
+########################################
+16 - code blocks
+http://bit.ly/1w64VQo
+---------
+http://bit.ly/1LAEEl6
+--------
+desc :  Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding needs 
+of its users. It is designed to be very extensible and fully configurable.
+
+Finally, an IDE with all the features you need, having a consistent look, feel and operation across platforms.  & no preconditions.
+-------
+mini desc : It is a free C, C++ and Fortran IDE built to meet the most demanding needs of its users.

@@ -1,0 +1,88 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="Programs_Hub.wecond"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Programs_Hub"
+    xmlns:common="using:Programs_Hub.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <x:String x:Key="AppName">My Application</x:String>
+    </Page.Resources>
+
+    <Page.BottomAppBar>
+
+        <CommandBar Background="#bb2d2a" >
+            <AppBarButton x:ConnectionId='1' Name="aboutp" Icon="Help" Label="about"                      />
+            <AppBarButton x:ConnectionId='2' Icon="LikeDislike" Label="Rate"                            />
+
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid Background="#007acc">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="25*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Background="#000000" Grid.RowSpan="1">
+            <TextBlock x:Name="pName" Text="{Binding ElementName=pName}" Style="{StaticResource HeaderTextBlockStyle}" 
+                        IsHitTestVisible="false" FontSize="25" TextWrapping="NoWrap" HorizontalAlignment="Left" VerticalAlignment="Bottom"  Grid.ColumnSpan="2" Margin="0,0,0,27"/>
+
+        </StackPanel>
+
+        <Grid VerticalAlignment="Top"  Grid.Row="1" Background="White" Height="235">
+            <StackPanel Name="youTubeMediaElementGrid"  HorizontalAlignment="Center" Margin="15" Grid.Row="0" 
+                            VerticalAlignment="Top" >
+                <MediaElement x:ConnectionId='4' Name="YouTubePlayerMediaElement"
+                          VerticalAlignment="Center"
+                                                     
+                                                     
+                          HorizontalAlignment="Center"
+                          Margin="3,0" 
+                          Width="395" 
+                                                                   
+                          IsFullWindow="False"  
+                          AreTransportControlsEnabled="True"
+                          >
+                </MediaElement>
+                <!-- IsFullWindow="enabled"-->
+            </StackPanel>
+
+            <ProgressBar x:Name="ProgressProgressBar"
+                Grid.Row="1" VerticalAlignment="Bottom" 
+                HorizontalAlignment="Center"
+                Foreground="White"
+                IsIndeterminate="True"
+                Height="13"  Width="395" />
+
+        </Grid>
+
+        <Grid Grid.Row="1" Background="Khaki" Height="260" VerticalAlignment="Bottom">
+            <TextBlock x:Name="name" Text="{Binding ElementName=pName}" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
+                        IsHitTestVisible="false" HorizontalAlignment="Center" FontStyle="Oblique" FontFamily="snab itc" FontWeight="Bold" FontSize="20" TextWrapping="Wrap" VerticalAlignment="Top"  Foreground="#4169E1"/>
+            <Image Name="pic" Source="{Binding}" Margin="15" HorizontalAlignment="Left" VerticalAlignment="Center" Height="100" Width="140"/>
+            <TextBlock x:Name="desc"  Margin="0,0,0,20" TextWrapping="Wrap" Text="{Binding ElementName=desc}" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
+                        IsHitTestVisible="false" HorizontalAlignment="Right" FontStyle="Normal" FontFamily="segoe print" FontSize="10"  VerticalAlignment="Bottom"  Foreground="#A52A2A" Height="200" Width="240"/>
+            <HyperlinkButton x:ConnectionId='3' Content="Download" FontSize="18" Background="White"   Foreground="#007acc" FontStyle="Oblique" FontFamily="segoe print" HorizontalAlignment="Left" 
+            	VerticalAlignment="Bottom" Margin="15" FontWeight="Bold"  Width="140" Height="60"                                />
+
+        </Grid>
+
+    </Grid>
+</Page>
+
+
+
+
+
+
+
+

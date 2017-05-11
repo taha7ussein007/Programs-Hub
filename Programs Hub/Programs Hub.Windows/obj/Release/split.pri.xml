@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="4203TahaHussein.ProgramsHub" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US</Language>
+			<Scale>80, 100</Scale>
+			<TargetSize>48, 32, 256, 16</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="About.xbf" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/About.xbf">
+				<Candidate type="Path">
+					<Value>About.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Programs Hub.Windows.xr.xml" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Programs%20Hub.Windows.xr.xml">
+				<Candidate type="Path">
+					<Value>Programs Hub.Windows.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="second.xbf" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/second.xbf">
+				<Candidate type="Path">
+					<Value>second.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="AdDuplex.Universal.Controls.Win.XAML">
+				<NamedResource name="AdDuplex.Universal.Controls.Win.XAML.xr.xml" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/AdDuplex.Universal.Controls.Win.XAML/AdDuplex.Universal.Controls.Win.XAML.xr.xml">
+					<Candidate type="Path">
+						<Value>AdDuplex.Universal.Controls.Win.XAML\AdDuplex.Universal.Controls.Win.XAML.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/AdDuplex.Universal.Controls.Win.XAML/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="1-.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/1-.jpg">
+					<Candidate type="Path">
+						<Value>Assets\1-.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="1.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/1.png">
+					<Candidate type="Path">
+						<Value>Assets\1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="3.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/3.jpg">
+					<Candidate type="Path">
+						<Value>Assets\3.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="4.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/4.jpg">
+					<Candidate type="Path">
+						<Value>Assets\4.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="About background.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/About%20background.png">
+					<Candidate type="Path">
+						<Value>Assets\About background.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Assembly 5-1.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Assembly%205-1.png">
+					<Candidate type="Path">
+						<Value>Assets\Assembly 5-1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FBL.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/FBL.png">
+					<Candidate type="Path">
+						<Value>Assets\FBL.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="hubPic (2).png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/hubPic%20%282%29.png">
+					<Candidate type="Path">
+						<Value>Assets\hubPic (2).png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="hubPic.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/hubPic.png">
+					<Candidate type="Path">
+						<Value>Assets\hubPic.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo Icon 1.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Logo%20Icon%201.png">
+					<Candidate type="Path">
+						<Value>Assets\Logo Icon 1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo Icon2.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Logo%20Icon2.png">
+					<Candidate type="Path">
+						<Value>Assets\Logo Icon2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Square70x70Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\Square70x70Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square70x70Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TL.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/TL.png">
+					<Candidate type="Path">
+						<Value>Assets\TL.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="to.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/to.png">
+					<Candidate type="Path">
+						<Value>Assets\to.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="wood.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/wood.jpg">
+					<Candidate type="Path">
+						<Value>Assets\wood.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Assembly logo">
+					<NamedResource name="About background.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Assembly%20logo/About%20background.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\About background.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Assembly 5-1.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Assembly%20logo/Assembly%205-1.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Assembly 5-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Blue.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Assembly%20logo/Blue.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Blue.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="FBL.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Assembly%20logo/FBL.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\FBL.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon 1.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Assembly%20logo/Logo%20Icon%201.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Logo Icon 1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Assembly%20logo/Logo%20Icon.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Logo Icon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo Icon2.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Assembly%20logo/Logo%20Icon2.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\Logo Icon2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TL.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/Assembly%20logo/TL.png">
+						<Candidate type="Path">
+							<Value>Assets\Assembly logo\TL.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="progPic">
+					<NamedResource name="1.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/1.png">
+						<Candidate type="Path">
+							<Value>Assets\progPic\1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="10.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/10.jpg">
+						<Candidate type="Path">
+							<Value>Assets\progPic\10.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="11.jpeg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/11.jpeg">
+						<Candidate type="Path">
+							<Value>Assets\progPic\11.jpeg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="12.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/12.jpg">
+						<Candidate type="Path">
+							<Value>Assets\progPic\12.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="13.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/13.jpg">
+						<Candidate type="Path">
+							<Value>Assets\progPic\13.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="14.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/14.jpg">
+						<Candidate type="Path">
+							<Value>Assets\progPic\14.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="15.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/15.jpg">
+						<Candidate type="Path">
+							<Value>Assets\progPic\15.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="16.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/16.jpg">
+						<Candidate type="Path">
+							<Value>Assets\progPic\16.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="17.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/17.jpg">
+						<Candidate type="Path">
+							<Value>Assets\progPic\17.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="2.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/2.jpg">
+						<Candidate type="Path">
+							<Value>Assets\progPic\2.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="3.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/3.jpg">
+						<Candidate type="Path">
+							<Value>Assets\progPic\3.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="4.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/4.png">
+						<Candidate type="Path">
+							<Value>Assets\progPic\4.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="5.png" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/5.png">
+						<Candidate type="Path">
+							<Value>Assets\progPic\5.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="6.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/6.jpg">
+						<Candidate type="Path">
+							<Value>Assets\progPic\6.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="7.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/7.jpg">
+						<Candidate type="Path">
+							<Value>Assets\progPic\7.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="8.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/8.jpg">
+						<Candidate type="Path">
+							<Value>Assets\progPic\8.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="9.jpg" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/Assets/progPic/9.jpg">
+						<Candidate type="Path">
+							<Value>Assets\progPic\9.jpg</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MyToolkit.Extended">
+				<NamedResource name="MyToolkit.Extended.xr.xml" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/MyToolkit.Extended/MyToolkit.Extended.xr.xml">
+					<Candidate type="Path">
+						<Value>MyToolkit.Extended\MyToolkit.Extended.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Controls">
+					<NamedResource name="DatePicker.xbf" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/MyToolkit.Extended/Controls/DatePicker.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Controls\DatePicker.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TimePicker.xbf" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/MyToolkit.Extended/Controls/TimePicker.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Controls\TimePicker.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="generic.xbf" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/MyToolkit.Extended/Themes/generic.xbf">
+						<Candidate type="Path">
+							<Value>MyToolkit.Extended\Themes\generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="UI">
+					<ResourceMapSubtree name="Popups">
+						<NamedResource name="ListPickerBox.xbf" uri="ms-resource://4203TahaHussein.ProgramsHub/Files/MyToolkit.Extended/UI/Popups/ListPickerBox.xbf">
+							<Candidate type="Path">
+								<Value>MyToolkit.Extended\UI\Popups\ListPickerBox.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Xaml.Interactions">
+			<ResourceMapSubtree name="Strings">
+				<NamedResource name="CallMethodActionValidMethodNotFoundExceptionMessage" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactions/Strings/CallMethodActionValidMethodNotFoundExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot find method named {0} on object of type {1} that matches the expected signature.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotAttachBehaviorMultipleTimesExceptionMessage" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactions/Strings/CannotAttachBehaviorMultipleTimesExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>An instance of a behavior cannot be attached to more than one object at a time.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotFindEventNameExceptionMessage" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactions/Strings/CannotFindEventNameExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot find an event named {0} on type {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChangePropertyActionCannotFindPropertyNameExceptionMessage" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactions/Strings/ChangePropertyActionCannotFindPropertyNameExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot find a property named {0} on type {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChangePropertyActionCannotSetValueExceptionMessage" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactions/Strings/ChangePropertyActionCannotSetValueExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot assign value of type {0} to property {1} of type {2}. The {1} property can be assigned only values of type {2}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChangePropertyActionPropertyIsReadOnlyExceptionMessage" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactions/Strings/ChangePropertyActionPropertyIsReadOnlyExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Property {0} defined by type {1} does not expose a set method and therefore cannot be modified.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EventNotSupportedExceptionMessage" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactions/Strings/EventNotSupportedExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Event {0} is not supported. Consider implementing a custom IBehavior to respond to this event.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GoToStateActionTargetHasNoStateGroups" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactions/Strings/GoToStateActionTargetHasNoStateGroups">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Target {0} does not define any VisualStateGroups.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidLeftOperand" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactions/Strings/InvalidLeftOperand">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Binding property of type {0} cannot be used with operator {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidOperands" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactions/Strings/InvalidOperands">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Binding property of type {0} and Value property of type {1} cannot be used with operator {2}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRightOperand" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactions/Strings/InvalidRightOperand">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Value property of type {0} cannot be used with operator {1}.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Xaml.Interactivity">
+			<ResourceMapSubtree name="Strings">
+				<NamedResource name="CannotAttachBehaviorMultipleTimesExceptionMessage" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactivity/Strings/CannotAttachBehaviorMultipleTimesExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>An instance of a behavior cannot be attached to more than one object at a time.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DuplicateBehaviorInCollectionExceptionMessage" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactivity/Strings/DuplicateBehaviorInCollectionExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot add an instance of a behavior to a BehaviorCollection more than once.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonActionAddedToActionCollectionExceptionMessage" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactivity/Strings/NonActionAddedToActionCollectionExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Only IAction types are supported in an ActionCollection.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonBehaviorAddedToBehaviorCollectionExceptionMessage" uri="ms-resource://4203TahaHussein.ProgramsHub/Microsoft.Xaml.Interactivity/Strings/NonBehaviorAddedToBehaviorCollectionExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Only IBehavior types are supported in a BehaviorCollection.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

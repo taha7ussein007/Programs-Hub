@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\taha hussein\desktop\programs hub\programs hub\programs hub.windowsphone\obj\debug\intermediatexaml\programs hub.windowsphone.exe" HashGuid="b2d506bf-159e-b119-0745-7b52146fe2bd" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\adduplex.winphone.extension\9.0.0.3\references\commonconfiguration\neutral\adduplex.universal.controls.winphone.xaml.dll" HashGuid="8a8b53ca-9ca1-e804-b9e9-be99ad2fa5a5" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\adduplex.winphone.extension\9.0.0.3\references\commonconfiguration\neutral\adduplex.universal.winphone.winrt.winmd" HashGuid="ff025b37-6fda-c558-dd2c-be8cb49ead76" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.common.winmd" HashGuid="1e8503cf-70b4-228d-c093-500b67413313" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.display.winmd" HashGuid="cc0fb2e7-7a64-f70e-2997-2ad4fbf1cad0" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.ui.winmd" HashGuid="e9cb4a1e-7cfd-ae54-a0dc-9f940488270a" />
+    <ReferenceAssembly PathName="d:\editting apps\programs hub\packages\mytoolkit.2.3.31.0\lib\portable-net45+wp8+win8+wpa81\mytoolkit.dll" HashGuid="f954329d-f40a-4c5f-1734-127e969f3d24" />
+    <ReferenceAssembly PathName="d:\editting apps\programs hub\packages\mytoolkit.extended.2.3.31.0\lib\portable-wpa81+win8\mytoolkit.extended.dll" HashGuid="146a9e74-41ed-555a-91a5-4a0ce1c19c4b" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

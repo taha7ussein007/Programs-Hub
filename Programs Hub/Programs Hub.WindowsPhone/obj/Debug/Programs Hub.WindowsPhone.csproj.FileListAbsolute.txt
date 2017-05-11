@@ -1,0 +1,157 @@
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\about_page.g.i.cs
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\about_page.g.cs
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\about_page.xaml
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\about_page.xbf
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Programs Hub.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Mainapage.g.i.cs
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Mainapage.g.cs
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\wecond.g.i.cs
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\wecond.g.cs
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Mainapage.xaml
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\wecond.xaml
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Mainapage.xbf
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\wecond.xbf
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\about_page.xbf
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Mainapage.xbf
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\wecond.xbf
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Programs Hub.WindowsPhone.xr.xml
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Programs Hub.WindowsPhone.exe
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Programs Hub.WindowsPhone.pdb
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Programs Hub.WindowsPhone.build.appxrecipe
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.dll
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.dll
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.Extended.dll
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.xml
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.Extended.xml
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.Extended.pri
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Programs Hub.WindowsPhone.exe
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Programs Hub.WindowsPhone.pdb
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Programs Hub.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\MyToolkit.Extended.pri.xml
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.winmd
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.xml
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.winmd
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.xml
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.winmd
+C:\Users\Taha Hussein\Desktop\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\App.xbf
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\about_page.xbf
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Mainapage.xbf
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\wecond.xbf
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Programs Hub.WindowsPhone.xr.xml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Programs Hub.WindowsPhone.exe
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Programs Hub.WindowsPhone.pdb
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\resources.pri
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Programs Hub.WindowsPhone.build.appxrecipe
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.dll
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.winmd
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.xml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.winmd
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.xml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.winmd
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.dll
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.Extended.dll
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.xml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.Extended.xml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.Extended.pri
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Programs Hub.WindowsPhone.csprojResolveAssemblyReference.cache
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\App.g.cs
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\about_page.g.i.cs
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\about_page.g.cs
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Mainapage.g.i.cs
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Mainapage.g.cs
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\wecond.g.i.cs
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\wecond.g.cs
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\App.xaml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\about_page.xaml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Mainapage.xaml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\wecond.xaml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\App.xbf
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\about_page.xbf
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Mainapage.xbf
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\wecond.xbf
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Programs Hub.WindowsPhone.exe
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Programs Hub.WindowsPhone.pdb
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Programs Hub.WindowsPhone.csproj.GenerateResource.Cache
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\priconfig.xml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\layout.resfiles
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\resources.resfiles
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\pri.resfiles
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\MyToolkit.Extended.pri.xml
+D:\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\App.xbf
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\about_page.xbf
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Mainapage.xbf
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\wecond.xbf
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Programs Hub.WindowsPhone.xr.xml
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Programs Hub.WindowsPhone.exe
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Programs Hub.WindowsPhone.pdb
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.dll
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.winmd
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.xml
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.winmd
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.xml
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.winmd
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.dll
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.Extended.dll
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.xml
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.Extended.xml
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\bin\Debug\MyToolkit.Extended.pri
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Programs Hub.WindowsPhone.csprojResolveAssemblyReference.cache
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\App.g.cs
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\about_page.g.i.cs
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\about_page.g.cs
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Mainapage.g.i.cs
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Mainapage.g.cs
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\wecond.g.i.cs
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\wecond.g.cs
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\App.xaml
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\about_page.xaml
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Mainapage.xaml
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\wecond.xaml
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\App.xbf
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\about_page.xbf
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Mainapage.xbf
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\wecond.xbf
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Programs Hub.WindowsPhone.exe
+D:\Editting Apps\Programs Hub\Programs Hub\Programs Hub.WindowsPhone\obj\Debug\Programs Hub.WindowsPhone.pdb
